@@ -1,0 +1,40 @@
+huggingface:
+QADI : https://huggingface.co/datasets/Abdelrahman-Rezk/Arabic_Dialect_Identification
+arabic_tweets_dialects dataset : https://huggingface.co/datasets/amgadhasan/arabic_tweets_dialects
+Arabic-Dialects-Translation : https://huggingface.co/datasets/BaselMousi/Arabic-Dialects-Translation
+Lebanon_Uprising_Arabic_Tweets : https://huggingface.co/datasets/arbml/Lebanon_Uprising_Arabic_Tweets
+Syria_Tweet_Sentiment : https://huggingface.co/datasets/arbml/Syria_Tweet_Sentiment
+Tunisian_Derja_Dataset : https://huggingface.co/datasets/linagora/Tunisian_Derja_Dataset
+Sudanese_Dialect_Tweet_Tele : https://huggingface.co/datasets/arbml/Sudanese_Dialect_Tweet_Tele
+Sudanese_Dialect_Tweet : https://huggingface.co/datasets/arbml/Sudanese_Dialect_Tweet
+Iraqi_Dialect : https://huggingface.co/datasets/arbml/Iraqi_Dialect
+Algerian-Darija : https://huggingface.co/datasets/ayoubkirouane/Algerian-Darija
+shami dataset : https://huggingface.co/datasets/arbml/Shami
+OmaniArabicNMT : https://huggingface.co/datasets/xri/OmaniArabicNMT
+madar : https://sites.google.com/nyu.edu/madar/home#h.xpcfdhjyc95c "used for Yemeni"
+
+online data
+bahraincorpus: https://www.bahraincorpus.com/
+arabic-dialect : https://www.kaggle.com/datasets/fadyadeeb/arabicdialect/code
+
+Subreddits:
+    CAIRO
+    SaudiForSaudis
+    SaudiPets
+    KingdomofSaudiArabia
+    Libya
+    Emiratis
+    sudanese_content
+    KuwaitForKuwaitis
+    Iraq
+    jordan
+    Amman
+    Syria
+    Tunisia
+
+data might be added:
+https://github.com/fbougares/TSAC/blob/master/test_neg.txt
+https://sourceforge.net/projects/padic/
+https://github.com/sjeblee/AOC
+https://github.com/NNLP-IL/Arabic-Resources?tab=readme-ov-file
+https://huggingface.co/datasets/atlasia/levantine_dialects
